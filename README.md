@@ -16,9 +16,9 @@ Confira este [vídeo explicativo no YouTube](https://www.youtube.com/watch?v=Tsu
 ## Uso
 
 Para usar o aplicativo:
-1. Clone o repositório: `git clone https://github.com/seu_usuario/nome_do_repositorio.git`
-2. Importe o banco de dados MySQL disponível na pasta `database`
-3. Configure as credenciais do banco de dados em `config.php`
+1. Clone o repositório: 
+2. Importe o banco de dados MySQL disponível na pasta 
+3. Configure as credenciais do banco de dados em
 
 ## Telas
 
